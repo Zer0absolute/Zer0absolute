@@ -15,25 +15,18 @@
 
 ## 👨‍💻 The latest about me 
 
-- 👋 Hi, I’m @Zer0absolute
+- 👋 Hi, I’m Maël Colomé => @Zer0absolute
 - 👀 I’m interested in astronomy and technology
-- 🌱 I’m currently learning Full-Stack Engineer in CodeCademy 💻
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Next.js 💻
+- 📫 How to reach me maelcolome.pro@icloud.com
 
 ### @ the office 
 
-- 👾 Cloud Architect: 
+- 👾 Mac M2 MAX
 
 ## 📚 Study Roadmap 
 
-**Primary**: Linux 🐧
-
-### Certifications
-
-- Soon Full Stack Engineer of CodeCademy
-- None
-
+**Primary**: React.js ⚛️
 
 <!---
 Zer0absolute/ZeR0HeR00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
