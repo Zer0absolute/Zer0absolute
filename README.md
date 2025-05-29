@@ -52,10 +52,10 @@
 <details>
   <summary>📱 Mobile</summary>
 
-| Name                 | A short summary                              | Stars   | Framework |
-| -------------------- | -------------------------------------------- | --------- | --------- |
-| [Code History](https://github.com/Zer0absolute/Code_History/) | Quiz app where users can test their knowledge of programming.  | ![GitHub Repo stars](https://img.shields.io/github/stars/Zer0absolute/Code_History/) | ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
-| [incomming]() | incomming  | ![GitHub Repo stars]() | ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
+| Name                 | A short summary                              | Framework |
+| -------------------- | -------------------------------------------- | --------- |
+| [Code History](https://github.com/Zer0absolute/Code_History/) | Quiz app where users can test their knowledge of programming. | ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
+| [incomming]() | incomming | ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
 
 </details>
 
