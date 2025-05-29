@@ -50,7 +50,7 @@
 </details>
 
 <details>
-  <summary>📱 Mobile</summary>
+  <summary>📱 Mobile</summary></br>
 
 | Name                 | A short summary                              | Framework |
 | -------------------- | -------------------------------------------- | --------- |
