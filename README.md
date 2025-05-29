@@ -1,14 +1,13 @@
 # Hey there 👋🏻, I'm Zer0 🐙
 
-![💳 Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zer0absolute&theme=github)
-![📊 Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0absolute&theme=xcode)
-
 ## 👨‍💻 About Me
 
 I am a fullstack developer. I started in web development with React and have continued to develop my skills around this library. Recently, I completed the Codecademy certification for the iOS Developer career path. I am at a turning point that is leading me to become a mobile developer. I also have my own company where I create projects that I am passionate about while using the skills I learn.
 
 - 👀 I’m interested in astronomy and technology
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mael-colome)
+
+![💳 Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zer0absolute&theme=github)
 
 ## 🛠️ Technologies & Tools
 
