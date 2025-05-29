@@ -8,7 +8,7 @@
 I am a fullstack developer. I started in web development with React and have continued to develop my skills around this library. Recently, I completed the Codecademy certification for the iOS Developer career path. I am at a turning point that is leading me to become a mobile developer. I also have my own company where I create projects that I am passionate about while using the skills I learn.
 
 - 👀 I’m interested in astronomy and technology
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/mael-colome)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mael-colome)
 
 ## 🛠️ Technologies & Tools
 
