@@ -117,10 +117,10 @@
 
 <p align='center'>
   📫 How to reach me: <p align='center'>
-  <a href="https://www.linkedin.com/in/mael-colome" blank>
+  <a href="https://www.linkedin.com/in/mael-colome" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@mikotodev" blank>
+  <a href="https://www.youtube.com/@mikotodev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
