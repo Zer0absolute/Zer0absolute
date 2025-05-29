@@ -50,6 +50,16 @@
 </details>
 
 <details>
+  <summary>📱 Mobile</summary>
+
+| Name                 | A short summary                              | Stars   | Framework |
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| [Code History](https://github.com/Zer0absolute/Code_History/) | Quiz app where users can test their knowledge of programming.  | ![GitHub Repo stars](https://img.shields.io/github/stars/Zer0absolute/Code_History/) | ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
+| [incomming]() | incomming  | ![GitHub Repo stars]() | ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
+
+</details>
+
+<!-- <details>
   <summary>🛠️ Programming Languages</summary>
 
   <p align='center'>
@@ -113,13 +123,14 @@
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
     <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" />
   </p>
-</details>
+</details> -->
 
 <p align='center'>
   📫 How to reach me: <p align='center'>
   <a href="https://www.linkedin.com/in/mael-colome" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://www.youtube.com/@mikotodev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
