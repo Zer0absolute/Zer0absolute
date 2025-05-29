@@ -1,9 +1,5 @@
 # Hey there 👋🏻, I'm Zer0 🐙
 
-**Disclaimer: This repo does not contain any code from my current or past organizations**
-
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=Zer0absolute&theme=onedark&margin-w=15&margin-h=15&column=7)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0absolute&theme=onedark&layout=compact&langs_count=15)
 
 ![GitHub most used languages](https://github-readme-stats.vercel.app/api?username=Zer0absolute&show_icons=true&theme=onedark)
