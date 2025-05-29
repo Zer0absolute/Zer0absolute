@@ -1,7 +1,5 @@
 # Hey there 👋🏻, I'm Zer0 🐙
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0absolute&theme=onedark&layout=compact&langs_count=15)
-
 ![GitHub most used languages](https://github-readme-stats.vercel.app/api?username=Zer0absolute&show_icons=true&theme=onedark)
 
 
