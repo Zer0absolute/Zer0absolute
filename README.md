@@ -13,7 +13,7 @@
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/MacBook_Pro_M2_MAX_RAM_96GB_2TB-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/iPhone_13_Pro_Max-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/iPhone_17_Pro_Max-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/⌨️_Nuphy_Kick75-04c9a0?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Xiaomi_Ultrawide-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />
 </p>
