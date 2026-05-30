@@ -62,6 +62,15 @@
 
 </details>
 
+<details>
+  <summary>💻 Mac</summary></br>
+
+| Name                 | A short summary                              | Framework |
+| -------------------- | -------------------------------------------- | --------- |
+| [MotionScreen](https://apps.apple.com/us/app/motionscreen/id6764333863?mt=12) | Create polished screen recordings with auto zoom, captions, and powerful editing tools | ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
+
+</details>
+
 <!-- <details>
   <summary>🛠️ Programming Languages</summary>
 
